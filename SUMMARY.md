@@ -1,6 +1,6 @@
 # Table of contents
 
-* [序言](README.md)
+* [序言-《You Have Only One Life》](README.md)
 
 ## 第一章 GitBook使用说明 <a id="di-yi-zhang-qian-yan"></a>
 
